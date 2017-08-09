@@ -4,3 +4,7 @@ def first_func():
 
 def third_func(list_in):
     return list_in[0]
+
+
+def fourth_func(int_in):
+    return int_in[0]
